@@ -1,3 +1,5 @@
+package leet.code;
+
 
 public class RollDice {
 	public int solution(int[] dices) {
